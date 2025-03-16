@@ -1,4 +1,4 @@
-# sprint_5
+# sprint_5_integrated_project_1
 Sprint 5 project from TripleTen bootcamp. Cumulative project analyzing video game sales data.
 
 ## Usage
